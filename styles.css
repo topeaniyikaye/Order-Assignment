@@ -1,0 +1,48 @@
+#orderForm{
+   background-color: #fafafa;
+   border-radius: 12px;
+   border-width: 2px;
+   padding: 12px; 
+}
+
+.margin-bottom {
+    margin-bottom: 12px;
+}
+
+.arrow{
+    width: 24px;
+    height: auto;
+}
+
+#submitOrder{
+    background-color: #111111;
+    padding-top: 4px ;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 100%;
+    color: #fafafa;
+    font-weight: bold;
+}
+
+.orderDetails{
+    display: none;
+    height: 100%;
+    background-color: #fafafa;
+   border-radius: 12px;
+   border-width: 2px;
+   padding: 12px; 
+   flex-direction:column ;
+
+}
+
+#shopMore{
+    background-color: #111111;
+    padding-top: 4px ;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 100%;
+    color: #fafafa;
+    font-weight: bold;   
+}
